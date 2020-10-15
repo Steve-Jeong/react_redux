@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 
-
 export default class AddNumber extends Component {
   state = {addNum:1}
   render() {
